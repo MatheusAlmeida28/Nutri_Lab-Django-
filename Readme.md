@@ -20,8 +20,8 @@ ___
 ## Tecnologias 🖥️
 
 - Python
-- Bootstrap
 - Django
+- Bootstrap
 - SQLite
 - Git e Github
 
